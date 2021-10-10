@@ -2,7 +2,7 @@ package Labos.src;
 
 public class FizzBuzz {
 
-    final static int MAX = 100;
+    final static int MAX = 200;
 
     public static void main(String[] args) {
         int counter = 1;
